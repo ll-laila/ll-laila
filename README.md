@@ -15,14 +15,13 @@
   📚 I'm currently learning Devops and Cloud.<br>
   👯 I’m looking to collaborate on...<br>
   💬 Ask me about Java, Python, AI and Cloud.<br>
-  📫 How to reach me: Gmail Badge & Linkedin Badge.<br>
-  📄 Know about my experiences [https://portfolio-theta-eosin-77.vercel.app](https://portfolio-theta-eosin-77.vercel.app)<br>
   🎲 Fun fact: First rule of coding, if it works, don't touch it.
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/laila timasli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laila timasli" height="30" width="40" /></a>
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </p>
 
 ###
