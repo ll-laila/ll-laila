@@ -1,9 +1,7 @@
-<div align="center">
-  <img height="150" src="https://octodex.github.com/images/femalecodertocat.png"  />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1>Hi 👋, I'm Laila Timasli</h1>
+  <img height="150" src="https://octodex.github.com/images/femalecodertocat.png" />
 </div>
-
-
-<h1 align="center">Hi 👋, I'm Laila Timasli</h1>
 
 ###
 
