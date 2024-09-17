@@ -2,11 +2,6 @@
 
 <h3 align="center">A Software Engineer Student</h3>
 
-
-###
-
-<h3 align="center">A Software Engineer Student</h3>
-
 ###
 
 <h2 align="left">About me</h2>
