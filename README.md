@@ -9,7 +9,7 @@
 ###
 
 <p align="left">
-  🔭 I’m currently working on <b>...<b/>.<br>
+  🔭 I’m currently working on <b>real estate price prediction application<b/>.<br>
   📚 I'm currently learning Devops and Cloud.<br>
   💬 Ask me about Java, Python, AI and Cloud.<br>
   🎲 Fun fact: First rule of coding, if it works, don't touch it.
